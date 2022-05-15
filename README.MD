@@ -10,6 +10,9 @@
 ```cmd
  python getCriptoData.py
 ```
+### Results!
+
+![Results](python-results.png)
 
 ## Bibliotecas utilizadas:
 Pandas
