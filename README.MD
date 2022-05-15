@@ -1,3 +1,4 @@
+![Results](Results.png)
 ### 	:electric_plug: 1- Functionalities
 **1 -** Procurar Evoluçao do preço das acoes do bitcoin <br>
 
@@ -10,10 +11,6 @@
 ```cmd
  python getCriptoData.py
 ```
-# 4 - localhost
-
-![Results](Results.png)
-
 ## Bibliotecas utilizadas:
 Pandas
 NumPy
