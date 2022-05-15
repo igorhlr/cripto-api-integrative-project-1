@@ -11,13 +11,14 @@
 ```cmd
  python getCriptoData.py
 ```
-## Bibliotecas utilizadas:
+## Libraries used:
 Pandas
 NumPy
 Yfinance
 Plotly 
 
-# bibliotecas:
+# libraries:
+
 numpy:
 - Supports processing of large, multi-dimensional arrays and matrices, along with a large collection of high-level math functions
 
@@ -30,12 +31,11 @@ yfinance:
 plotly.graph_objs:
 - Creates interactive graphics
 
-___________________________________________________________________________________________________________
-References:
+# References:
 
 Dashborad 
--->  https://plotly.com/
+- https://plotly.com/
 
-bitcoin price (to compare with result)
---> https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD&.tsrc=fin-srch 
+bitcoin price and data source 
+- https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD&.tsrc=fin-srch 
 
