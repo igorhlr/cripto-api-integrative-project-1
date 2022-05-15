@@ -10,7 +10,7 @@
 ```cmd
  python getCriptoData.py
 ```
-### Results!
+# Results!
 
 ![Results](python-results.png)
 
